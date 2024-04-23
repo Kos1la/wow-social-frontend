@@ -4,7 +4,8 @@ import AppHeader from '@/components/AppHeader.vue'
 
 <template>
   <app-header />
-  <div class="container mx-auto flex-1 md:px-20 px-4">
+  <div class="container mx-auto flex-1 md:px-20 px-4"> // commit
     <RouterView />
   </div>
 </template>
+
